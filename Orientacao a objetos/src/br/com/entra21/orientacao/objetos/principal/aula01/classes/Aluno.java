@@ -25,6 +25,6 @@ public class Aluno {
 			// um atribudo do meu objeto
 		}
 		return this.quantidadePresencas;
-	}
+	}	
 
 }
