@@ -2,8 +2,6 @@
 
 ## Conteúdo prático realizado em sala de aula durante o projeto Entra21.
 
-![Gif Entra21](./gif/entra21.gif)
-
 ## Aulas ministradas
 
 | Aula | Assunto |
