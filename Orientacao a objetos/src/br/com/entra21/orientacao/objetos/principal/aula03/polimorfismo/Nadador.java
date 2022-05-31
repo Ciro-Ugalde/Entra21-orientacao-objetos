@@ -48,4 +48,9 @@ public class Nadador extends Atleta { // minha classe Nadador pegando atributos 
 // isEmpty testa se a string tem zero caracteres.
 	}
 
+	public void setNome(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

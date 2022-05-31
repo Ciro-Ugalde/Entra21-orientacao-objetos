@@ -30,4 +30,9 @@ public class Funcionario extends Pessoa {
 		this.salario = salario;
 	}
 
+	public void setObervacao(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

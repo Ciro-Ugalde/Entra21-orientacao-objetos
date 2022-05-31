@@ -52,4 +52,19 @@ public class Pessoa {
 		this.observacao = observacao;
 	}
 
+	public String gerarDossie(String nome) {
+		
+		return null;
+	}
+
+	public String realizarApresentação() {
+		
+		return null;
+	}
+
+	public String realizarApresentacao() {
+		
+		return null;
+	}
+
 }

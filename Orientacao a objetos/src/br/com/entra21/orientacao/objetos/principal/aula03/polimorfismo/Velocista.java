@@ -45,4 +45,12 @@ public class Velocista extends Atleta { // minha classe Velocista pegando atribu
 		System.out.println(getName() + " aaaaa estou cansado mais corri para vitória. (frases expiradoras)");
 	}
 
+	public void setNome(String string) {
+
+	}
+
+	public void comemorarVitoria() {
+
+	}
+
 }

@@ -61,4 +61,14 @@ public class Atleta {
 		this.qLoss++;
 	}
 
+	public void comemorarVitoria() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void aprenderComDerrota() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

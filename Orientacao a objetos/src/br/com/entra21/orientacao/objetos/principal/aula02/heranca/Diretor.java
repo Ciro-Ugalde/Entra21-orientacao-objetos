@@ -63,4 +63,9 @@ public class Diretor extends Pessoa {
 		System.out.println("Oi meu nome é " + getNome() + " tenho " + getIdade());
 	}
 
+	public void setObervacao(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

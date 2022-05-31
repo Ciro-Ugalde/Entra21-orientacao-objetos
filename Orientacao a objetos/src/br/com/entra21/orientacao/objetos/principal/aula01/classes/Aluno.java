@@ -17,14 +17,19 @@ public class Aluno {
 
 	public byte responderChamada() {
 		Scanner entrada = new Scanner(System.in);
-		System.out.println("O aluno " +this.nome+ " está aí?");
+		System.out.println("O aluno " + this.nome + " está aí?");
 		String resposta = entrada.next();
-		if(resposta.equalsIgnoreCase("Sim")) {
+		if (resposta.equalsIgnoreCase("Sim")) {
 			this.quantidadePresencas++;
 			// O THIS serve para reafirmar que estamos mencionando
 			// um atribudo do meu objeto
 		}
 		return this.quantidadePresencas;
-	}	
+	}
+
+	public String respoderChamada() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 }
