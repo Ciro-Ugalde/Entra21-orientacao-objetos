@@ -6,8 +6,8 @@
 
 | Aula | Assunto |
 |------|---------|
-|Aula 01|[Classes e Objetos](./Orientacao%20a%20objetos/src/br/com/entra21/orientacao/objetos/principal/aula01/classes/)
-|Aula 02|[Heranças](./Orientacao%20a%20objetos/src/br/com/entra21/orientacao/objetos/principal/aula02/heranca/)
-|Aula 03|[Polimorfismo](./Orientacao%20a%20objetos/src/br/com/entra21/orientacao/objetos/principal/aula03/polimorfismo//)
-|Aula 04|[Interfaces](./Orientacao%20a%20objetos/src/br/com/entra21/orientacao/objetos/principal/aula04/interfaces/)
-|Aula 05|[Pratica em Aula](./Orientacao%20a%20objetos/src/br/com/entra21/orientacao/objetos/principal/aula05/revisao/)
+|Aula 01|[Classes e Objetos]
+|Aula 02|[Heranças]
+|Aula 03|[Polimorfismo]
+|Aula 04|[Interfaces]
+|Aula 05|[Pratica em Aula]
