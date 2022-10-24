@@ -11,7 +11,7 @@ Repositório com as práticas realizadas em aula
 
 ## Aula Ministradas
 
-<a href="#"><img align="center" src="./giphy.gif" width="400 " height="300" /></a>
+<img align="center" src="./giphy.gif" width="400 " height="300">
 
 | AULA | ASSUNTO |
 |------|---------|
